@@ -29,7 +29,7 @@ print(array2)
 ## Step 5: Multiply your array from step one by your array from step 2
 print("-----------------------------------------------   STEP FIVE   -----------------------------------------------")
 
-#
+#array0 * array2
 
 ## This errored out... why?
 print("because they are in different row/column formats")
@@ -39,6 +39,8 @@ print("-----------------------------------------------   STEP SIX   ------------
 
 ## this worked! why?
 print(array0 * array1)
+
+print("because they are in the same format")
 
 
 
